@@ -14,6 +14,6 @@ Finally, ```Generate_sequences_phylogeny_binaryvariables.py``` allows to generat
 
 The ```Analyse_data.py``` allows to infer contacts using mean-field DCA.
 
-### Natural data
+### Realistic model
 
 
