@@ -1,8 +1,8 @@
 #!/bin/bash
 
 PATH_SCRIPT="plmdca.jl"
-MSA_DIR="/home/malbrank/Documents/phylogeny-nico/plot_pf00004-3/msas"
-PLMDCA_DIR="/home/malbrank/Documents/phylogeny-nico/plot_pf00004-3/dca"
+MSA_DIR="/data/msas"
+PLMDCA_DIR="/data/dca"
 
 # Ensure output directory exists
 mkdir -p "$PLMDCA_DIR"
